@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpharma_doc=self.webpackChunkpharma_doc||[]).push([[5488],{6224:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/gastrointestinal/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
