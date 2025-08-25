@@ -85,22 +85,23 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialBasicsSidebar',
+            sidebarId: 'physiologySidebar',
             position: 'left',
-            label: 'Basics',
+            label: 'Physiology',
           },
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialExtraSidebar',
+            sidebarId: 'pathologySidebar',
             position: 'left',
-            label: 'Extra',
+            label: 'Pathology',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'clinicalSidebar',
+            position: 'left',
+            label: 'Cinical',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
@@ -132,7 +133,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/educatio-medica/gastrointestinal',
               },
             ],
           },
