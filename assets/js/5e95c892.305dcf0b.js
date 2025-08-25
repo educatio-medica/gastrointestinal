@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpharma_doc=self.webpackChunkpharma_doc||[]).push([[9647],{9948:(e,r,a)=>{a.r(r),a.d(r,{default:()=>p});a(6672);var s=a(3526),c=a(6660),u=a(8282),d=a(4401),h=a(3888),n=a(3420);function p(e){return(0,n.jsx)(c.e3,{className:(0,s.A)(u.G.wrapper.docsPages),children:(0,n.jsx)(h.A,{children:(0,d.v)(e.route.routes)})})}}}]);
